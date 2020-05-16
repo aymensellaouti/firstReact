@@ -9,7 +9,6 @@ const InputSearch = (props) => {
               type='search'
               placeholder='Enter the name of the user you look for'/>
         </div>
-    );
-};
+    ); 
 
 export default InputSearch;
